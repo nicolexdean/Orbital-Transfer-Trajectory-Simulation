@@ -68,3 +68,7 @@ This simulation represents an ideal Hohmann transfer. Real spacecraft
 trajectories may require consideration of finite burn durations,
 inclination changes, atmospheric drag, launch conditions, navigation
 errors, and additional gravitational perturbations.
+
+## Trajectory Visualization
+
+![Hohmann Transfer Trajectory](HohmannTransferPlot.png)
